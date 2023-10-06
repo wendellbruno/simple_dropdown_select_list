@@ -84,7 +84,9 @@ const data = [
         infoFontStyle={{ fontSize: 18, fontWeight: 'bold' }}
         containerFontsStyle={{ fontSize: 18, fontWeight: 'normal' }}
       />
-      <View style={{height: 80}} />
+
+      -- USING GLOBAL THEME -- 
+      
     <SelectList
         //requireds
         data={data}
