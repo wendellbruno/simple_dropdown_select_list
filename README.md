@@ -1,7 +1,9 @@
-|                          | |  |   
-| --------------------------------------- | -------- | ---------- |
- <a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM VERSION](https://img.shields.io/npm/v/react_native_simple_dropdown_select_list?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react_native_simple_dropdown_select_list?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/wendellbruno/simple_dropdown_select_list/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/wendellbruno/simple_dropdown_select_list?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/react_native_simple_dropdown_select_list?color=%232CA215&style=for-the-badge)</a>
-
+|  |  | |  |
+| - | -- | --- |----
+|<a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM VERSION](https://img.shields.io/npm/v/react_native_simple_dropdown_select_list?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react_native_simple_dropdown_select_list?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/wendellbruno/simple_dropdown_select_list/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/wendellbruno/simple_dropdown_select_list?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react_native_simple_dropdown_select_list">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/react_native_simple_dropdown_select_list?color=%232CA215&style=for-the-badge)</a>
+ 
+ <br>
+</p>
 <h1 align="center"> 🚀 Simple Dropdown Select List - React Native  🚀 </h1>
 
 
@@ -12,7 +14,6 @@
     <br>
 </p> 
 
-<br>
 
 <p align="center" >
 <br>
