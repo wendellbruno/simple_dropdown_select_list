@@ -84,8 +84,6 @@ const data = [
         infoFontStyle={{ fontSize: 18, fontWeight: 'bold' }}
         containerFontsStyle={{ fontSize: 18, fontWeight: 'normal' }}
       />
-      <br />
-      <h2>with theme</h2>
       <View style={{height: 80}} />
     <SelectList
         //requireds
