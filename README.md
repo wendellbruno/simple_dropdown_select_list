@@ -4,7 +4,7 @@
 
  <br>
 </p>
-<h1 align="center"> 🚀 Simple Dropdown Select List - React Native  🚀 </h1>
+<h1 align="center"> 🚀 Simple Dropdown List - React Native 🚀 </h1>
 
 
 <p align="center" >
@@ -48,7 +48,7 @@ $ yarn add react_native_simple_dropdown_select_list
 
 <br>
 
-# 🚀 Exemple for use 🚀
+# 🚀 Example for use 🚀
 ```jsx
 import { SelectList } from 'react_native_simple_dropdown_select_list';
 import { useTheme } from 'styled-components/native';
