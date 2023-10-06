@@ -25,9 +25,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/wendellbruno/simple_dropdown_select_list"
   },
-  "homepage": "",
+  "homepage": "https://github.com/wendellbruno/simple_dropdown_select_list/blob/main/README.md",
   "devDependencies": {
     "@types/react": "^18.2.24",
     "@types/react-native": "^0.72.3",
