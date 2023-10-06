@@ -1,0 +1,38 @@
+{
+  "name": "react_native_simple_dropdown_select_list",
+  "version": "1.0.0",
+  "description": "🚀 Simple selection dropdown list 🚀",
+  "main": "index.ts",
+  "types": "props.d.ts",
+  "keywords": [
+    "ios",
+    "list",
+    "picker",
+    "select",
+    "dropdown",
+    "android",
+    "list-picker",
+    "selectlist",
+    "dropdown-picker",
+    "dropdown-list",
+    "react",
+    "react native",
+    "react-native",
+    "reactnative",
+    "expo"
+  ],
+  "author": "Wendell Bruno Santos Da Cruz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/react": "^18.2.24",
+    "@types/react-native": "^0.72.3",
+    "react": "^18.2.0",
+    "react-native": "^0.72.5",
+    "typescript": "^5.2.2"
+  }
+}
