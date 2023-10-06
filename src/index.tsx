@@ -10,7 +10,7 @@ import {
   Animated,
 } from "react-native";
 
-import { SelectListProps } from "../props";
+import { SelectListProps } from "./props";
 
 type IPropsSelect = { key?: any; value?: any };
 
